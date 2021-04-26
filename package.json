@@ -1,11 +1,10 @@
 {
-  "name": "@perzikanz/my-test-package",
+  "name": "my_test_package",
   "version": "1.0.0",
   "main": "index.js",
   "repository": "https://github.com/perzikanz/my_test_package.git",
-  "author": "perzikanz",
+  "author": "perzikanz <65535030+perzikanz@users.noreply.github.com>",
   "license": "MIT",
-  "private": "false",
   "devDependencies": {
     "typescript": "^4.2.4"
   }
