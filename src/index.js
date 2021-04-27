@@ -1,3 +1,3 @@
-import AddFunction from './addFunction';
+import addFunction from './addFunction';
 
-export default AddFunction;
+export default addFunction;
