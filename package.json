@@ -1,11 +1,14 @@
 {
   "name": "my_test_package",
   "version": "1.0.0",
-  "main": "index.js",
+  "main": "dist/index.js",
   "repository": "https://github.com/perzikanz/my_test_package.git",
   "author": "perzikanz <65535030+perzikanz@users.noreply.github.com>",
   "license": "MIT",
   "devDependencies": {
     "typescript": "^4.2.4"
+  },
+  "scripts": {
+    "build": "tsc"
   }
 }
