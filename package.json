@@ -1,5 +1,5 @@
 {
-  "name": "my_test_package",
+  "name": "@perzikanz/my-test-package",
   "version": "1.0.1",
   "main": "dist/index.js",
   "repository": "https://github.com/perzikanz/my_test_package.git",
