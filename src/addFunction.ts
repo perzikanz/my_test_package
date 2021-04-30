@@ -1,5 +1,5 @@
-const AddFunction = (a: number, b: number): number => {
+const addFunction = (a: number, b: number): number => {
   return a + b;
 };
 
-export default AddFunction;
+export default addFunction;
